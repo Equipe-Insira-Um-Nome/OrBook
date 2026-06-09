@@ -1,0 +1,6 @@
+[submodule "Back-End"]
+	path = Back-End
+	url = https://github.com/Equipe-Insira-Um-Nome/Back-End.git
+[submodule "Front-End"]
+	path = Front-End
+	url = https://github.com/Equipe-Insira-Um-Nome/Front-End.git
